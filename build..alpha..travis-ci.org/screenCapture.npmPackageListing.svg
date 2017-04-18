@@ -1,11 +1,11 @@
 <svg height="126" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="126" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 05:06:12 +0000    18307 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 05:06:12 +0000     1489 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 05:06:12 +0000    11454 bytes  index.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 05:06:12 +0000     1142 bytes  lib/fastreplace.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 05:06:12 +0000     1015 bytes  lib/findNestedRequires.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 05:06:12 +0000     3207 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 05:07:11 +0000    18307 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 05:07:11 +0000     1489 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 05:07:11 +0000    11454 bytes  index.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 05:07:11 +0000     1142 bytes  lib/fastreplace.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 05:07:11 +0000     1015 bytes  lib/findNestedRequires.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 05:07:11 +0000     3207 bytes  package.json</tspan>
 </text>
 </svg>
