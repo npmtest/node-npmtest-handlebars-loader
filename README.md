@@ -1,6 +1,6 @@
 # npmtest-handlebars-loader
 
-#### test coverage for  [handlebars-loader (v1.4.0)](https://github.com/pcardune/handlebars-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-handlebars-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-handlebars-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-handlebars-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-handlebars-loader)
+#### basic test coverage for  [handlebars-loader (v1.5.0)](https://github.com/pcardune/handlebars-loader)  [![npm package](https://img.shields.io/npm/v/npmtest-handlebars-loader.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-handlebars-loader) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-handlebars-loader.svg)](https://travis-ci.org/npmtest/node-npmtest-handlebars-loader)
 
 #### handlebars loader module for webpack
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-handlebars-loader/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-handlebars-loader/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-handlebars-loader/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-handlebars-loader/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-handlebars-loader/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-handlebars-loader/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-handlebars-loader/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-handlebars-loader/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-handlebars-loader/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-handlebars-loader/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-handlebars-loader/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-handlebars-loader/build/coverage.html/index.html)
 
@@ -53,7 +53,7 @@
     "dependencies": {
         "async": "~0.2.10",
         "fastparse": "^1.0.0",
-        "loader-utils": "0.2.x",
+        "loader-utils": "1.0.x",
         "object-assign": "^4.1.0"
     },
     "description": "handlebars loader module for webpack",
@@ -71,14 +71,14 @@
         "test": "test"
     },
     "dist": {
-        "shasum": "142b2c29bcb8e407554fbc8846feef9f90da3317",
-        "tarball": "https://registry.npmjs.org/handlebars-loader/-/handlebars-loader-1.4.0.tgz"
+        "shasum": "9ebb33aa8066fc0733fb1679b441638ad91184bb",
+        "tarball": "https://registry.npmjs.org/handlebars-loader/-/handlebars-loader-1.5.0.tgz"
     },
     "files": [
         "index.js",
         "lib"
     ],
-    "gitHead": "5c867860a7abd8adb178813c7effbbc50edfb82b",
+    "gitHead": "191817063b0125c29ae811bc6103bd38f059fd73",
     "homepage": "https://github.com/pcardune/handlebars-loader",
     "license": "MIT",
     "licenses": [
@@ -113,7 +113,8 @@
         "lint": "eslint lib/ test/ index.js",
         "test": "mocha"
     },
-    "version": "1.4.0"
+    "version": "1.5.0",
+    "bin": {}
 }
 ```
 
